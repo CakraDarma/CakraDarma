@@ -3,16 +3,11 @@
 
 I love to explore new things about web development-related topics, backend, frontend, and devops.
 
-- 🌱 I’m currently learning **React and NextJS**
 - 🎨 I'm focusing on **Web Development**
-- 👀 I'm interested with **React**
+- 👀 I'm interested with **NextJS**
 - 🤔 I like to Exploring new technologies and developing software solutions.
 - 📝 I regularly write articles on my blog
 - 📫 How to reach me: baguscakraa02@gmail.com
-
-## Skills and Experience
-* ⚛ React
-* 💻 Express JS
 
 ## My Github Stats
 
