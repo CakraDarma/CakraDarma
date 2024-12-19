@@ -11,9 +11,12 @@ I love to explore new things about web development-related topics, backend, fron
 
 ## My Github Stats
 
-| Overview | Language |
-| --- | --- |
-|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cakradarma&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=cakradarma&layout=compact)|
+<p align="left">
+<a href="https://github.com/krishnaamp123">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CakraDarma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CakraDarma&layout=compact&langs_count=8&theme=radical"/>
+</a>
+</p>
 
 ## Connect with Me
 
